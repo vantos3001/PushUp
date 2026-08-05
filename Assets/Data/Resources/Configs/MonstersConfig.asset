@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a4704fc750b1fd4086ea2cdff5d048b, type: 3}
+  m_Name: MonstersConfig
+  m_EditorClassIdentifier: 
+  Tiers:
+  - Monsters:
+    - Name: "\u0421\u043B\u0438\u0437\u0435\u043D\u044C"
+      Icon: {fileID: 21300000, guid: 8cc4a30f218992841bab0d6f6610e6e6, type: 3}
+    - Name: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      Icon: {fileID: 21300000, guid: 48c76b5928080e54f979e7909d954cbb, type: 3}
+    - Name: "\u041F\u0430\u0443\u043A"
+      Icon: {fileID: 21300000, guid: bec7cc2c0cee7964aa840a5bccb864a1, type: 3}
+    - Name: "\u0416\u0443\u043A"
+      Icon: {fileID: 21300000, guid: 33098ce97b4b4b74e8f4ffe0b818e349, type: 3}
+    - Name: "\u0427\u0435\u0440\u0432\u044C"
+      Icon: {fileID: 21300000, guid: 520c355d2dbfacf4a931356ec9635a63, type: 3}
+    - Name: "\u0411\u0435\u0441\u0451\u043D\u043E\u043A"
+      Icon: {fileID: 21300000, guid: 75a2ffd35a67cb94589db07e332d16ff, type: 3}
+    - Name: "\u041D\u0435\u0442\u043E\u043F\u044B\u0440\u044C"
+      Icon: {fileID: 21300000, guid: efbd9dd58f7c1a74e88298bf7f5716ba, type: 3}
+    - Name: "\u041A\u0440\u0430\u0431"
+      Icon: {fileID: 21300000, guid: 67ec4d5fe58f23446a0b956ec763cc3e, type: 3}
+    - Name: "\u041B\u044F\u0433\u0443\u0445"
+      Icon: {fileID: 21300000, guid: b9484abf02bba304aa8376dca04c5ff6, type: 3}
+    - Name: "\u041A\u043E\u0431\u043E\u043B\u044C\u0434"
+      Icon: {fileID: 21300000, guid: 94986a3528e4e6845a7c5d60cb65d09f, type: 3}
+    - Name: "\u041A\u0440\u044B\u0441\u044E\u043A"
+      Icon: {fileID: 21300000, guid: 6312381cc72e21d4a97ecf38c69d6d06, type: 3}
+    - Name: "\u0413\u0440\u0438\u0431-\u0445\u0438\u0449\u043D\u0438\u043A"
+      Icon: {fileID: 21300000, guid: afa3eb5a8533a44488224ea752b5e7d3, type: 3}
+  - Monsters:
+    - Name: "\u0412\u043E\u043B\u043A"
+      Icon: {fileID: 21300000, guid: 90eaf124ceba343438239958d507af16, type: 3}
+    - Name: "\u0421\u043A\u0435\u043B\u0435\u0442"
+      Icon: {fileID: 21300000, guid: 25e437cb4cd1ac84694ef84e98d167ee, type: 3}
+    - Name: "\u0417\u043E\u043C\u0431\u0438"
+      Icon: {fileID: 21300000, guid: e3e55091279d3e94caa6932f5aab551e, type: 3}
+    - Name: "\u0420\u0430\u0437\u0431\u043E\u0439\u043D\u0438\u043A"
+      Icon: {fileID: 21300000, guid: 4df4eb35cb2e3d24a9cfdb2bea0dcef9, type: 3}
+    - Name: "\u041A\u0430\u0431\u0430\u043D"
+      Icon: {fileID: 21300000, guid: 9e43d3f0d64d6844f9b06a4dd76954de, type: 3}
+    - Name: "\u0417\u043C\u0435\u0439"
+      Icon: {fileID: 21300000, guid: 6ea5be374d0f9e64cb92b01bcd1a8912, type: 3}
+    - Name: "\u0423\u043F\u044B\u0440\u044C"
+      Icon: {fileID: 21300000, guid: c77d93b5680cbb04ca57c75e232ee3bd, type: 3}
+    - Name: "\u041C\u0438\u043C\u0438\u043A"
+      Icon: {fileID: 21300000, guid: 21e853e0521af494db7353cff7db4b0a, type: 3}
+    - Name: "\u0425\u043E\u0431\u0433\u043E\u0431\u043B\u0438\u043D"
+      Icon: {fileID: 21300000, guid: 69377fd894ca5dd4a9d8199c4d4a0982, type: 3}
+    - Name: "\u0413\u0443\u043B\u044C"
+      Icon: {fileID: 21300000, guid: 22c25c0eae9b3f54ca24c0f86fe61ba4, type: 3}
+    - Name: "\u042F\u0449\u0435\u0440"
+      Icon: {fileID: 21300000, guid: ce8118e5d23fd2448ab6c677569ef6f8, type: 3}
+    - Name: "\u0428\u0430\u043A\u0430\u043B"
+      Icon: {fileID: 21300000, guid: cc3c5f2a1da229e40a0f8a389513b3c5, type: 3}
+  - Monsters:
+    - Name: "\u041E\u0440\u043A"
+      Icon: {fileID: 21300000, guid: 8a968bd78718aec498b6e83104035a1c, type: 3}
+    - Name: "\u041F\u0440\u0438\u0437\u0440\u0430\u043A"
+      Icon: {fileID: 21300000, guid: 8756e4bc7b54bd8408376b1266d3589b, type: 3}
+    - Name: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      Icon: {fileID: 21300000, guid: 596e84bcf0d8be749932cae4b604fb18, type: 3}
+    - Name: "\u041E\u0433\u0440"
+      Icon: {fileID: 21300000, guid: bf37f471b3543b040be3d9085ca3724f, type: 3}
+    - Name: "\u0412\u0435\u0440\u0432\u043E\u043B\u044C\u0444"
+      Icon: {fileID: 21300000, guid: 1fb689fd290820145899e1be47bce80f, type: 3}
+    - Name: "\u0413\u043E\u043B\u0435\u043C"
+      Icon: {fileID: 21300000, guid: f91b418bed5fef845a039d343d079395, type: 3}
+    - Name: "\u041A\u0443\u043B\u044C\u0442\u0438\u0441\u0442"
+      Icon: {fileID: 21300000, guid: 2306e18c04da5e8428e2e6306f16e9e0, type: 3}
+    - Name: "\u0412\u0430\u0441\u0438\u043B\u0438\u0441\u043A"
+      Icon: {fileID: 21300000, guid: 57c129aa077a020418ecdc12906c2f8e, type: 3}
+    - Name: "\u041C\u0438\u043D\u043E\u0442\u0430\u0432\u0440"
+      Icon: {fileID: 21300000, guid: ffa36cb1ca393de4ebea7d0873380117, type: 3}
+    - Name: "\u0413\u0440\u0438\u0444\u043E\u043D"
+      Icon: {fileID: 21300000, guid: 8f2f2e37e44d19945af2b948822796fb, type: 3}
+    - Name: "\u0426\u0438\u043A\u043B\u043E\u043F"
+      Icon: {fileID: 21300000, guid: d5db1c6f43c454f4fb6d93bc9c38b772, type: 3}
+    - Name: "\u041D\u0435\u043A\u0440\u043E\u043C\u0430\u043D\u0442"
+      Icon: {fileID: 21300000, guid: cf23f63befb14b14c8307ce20915dfd3, type: 3}
+  - Monsters:
+    - Name: "\u0412\u0430\u043C\u043F\u0438\u0440"
+      Icon: {fileID: 21300000, guid: 4b1491141be2bd8458b46bef5f9f121d, type: 3}
+    - Name: "\u0414\u0435\u043C\u043E\u043D"
+      Icon: {fileID: 21300000, guid: 0017a7e6aef897c418439b64783554e0, type: 3}
+    - Name: "\u041A\u043E\u043B\u0434\u0443\u043D"
+      Icon: {fileID: 21300000, guid: 12111e7f35fafac42b054f050f3d14fa, type: 3}
+    - Name: "\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u0430\u043B\u044C"
+      Icon: {fileID: 21300000, guid: 469a1d21bfab6844386404552e950445, type: 3}
+    - Name: "\u0420\u0435\u0432\u0435\u043D\u0430\u043D\u0442"
+      Icon: {fileID: 21300000, guid: d712d7bfd15df5245a505e281a6f85d9, type: 3}
+    - Name: "\u0418\u0444\u0440\u0438\u0442"
+      Icon: {fileID: 21300000, guid: 006608c8ac1f77f4a986a8983d96c664, type: 3}
+    - Name: "\u0414\u0436\u0438\u043D\u043D"
+      Icon: {fileID: 21300000, guid: 2a765540992ed7e41bdbebfeb5ea1b67, type: 3}
+    - Name: "\u041A\u0435\u043D\u0442\u0430\u0432\u0440"
+      Icon: {fileID: 21300000, guid: 8b3a2112fb7c36947bc21d1b44c9b5d7, type: 3}
+    - Name: "\u041E\u0431\u043E\u0440\u043E\u0442\u0435\u043D\u044C"
+      Icon: {fileID: 21300000, guid: 4d92887cc350ded4e9c9350449da2362, type: 3}
+    - Name: "\u041C\u0430\u043D\u0442\u0438\u043A\u043E\u0440"
+      Icon: {fileID: 21300000, guid: 875eb744d86e8384c9111059aa2bfdf3, type: 3}
+    - Name: "\u0413\u043E\u0440\u0433\u0443\u043B"
+      Icon: {fileID: 21300000, guid: e2fb026ff23756b4b87b0d5146d983ac, type: 3}
+    - Name: "\u041A\u043E\u0441\u0442\u044F\u043D\u043E\u0439 \u0413\u043E\u043B\u0435\u043C"
+      Icon: {fileID: 21300000, guid: 5017e9ec44040ad48936e88e8fc37c22, type: 3}
+  - Monsters:
+    - Name: "\u041B\u0438\u0447"
+      Icon: {fileID: 21300000, guid: 1d139da2f75425a468c35e4ac04cb893, type: 3}
+    - Name: "\u0414\u0440\u0430\u043A\u043E\u043D"
+      Icon: {fileID: 21300000, guid: 10ff4f1f0be52a74e806ae52427aee0a, type: 3}
+    - Name: "\u0422\u0438\u0442\u0430\u043D"
+      Icon: {fileID: 21300000, guid: b795d687d4824a743a159cbba58a0af2, type: 3}
+    - Name: "\u041A\u0440\u0430\u043A\u0435\u043D"
+      Icon: {fileID: 21300000, guid: 89149ffe0dc17c8489cd7b20b76020fa, type: 3}
+    - Name: "\u0411\u0435\u0433\u0435\u043C\u043E\u0442"
+      Icon: {fileID: 21300000, guid: c7765842362f9d942bed010547cf1884, type: 3}
+    - Name: "\u0410\u0440\u0445\u0438\u0434\u0435\u043C\u043E\u043D"
+      Icon: {fileID: 21300000, guid: 4b4374cf6e3439041867909c8364045f, type: 3}
+    - Name: "\u0416\u043D\u0435\u0446"
+      Icon: {fileID: 21300000, guid: a6d29ca50aa22fb4da1a70f73afbc390, type: 3}
+    - Name: "\u041A\u043E\u043B\u043E\u0441\u0441"
+      Icon: {fileID: 21300000, guid: 49e4427aaa632b548b4eafa8c2165297, type: 3}
+    - Name: "\u0424\u0435\u043D\u0438\u043A\u0441"
+      Icon: {fileID: 21300000, guid: 43c03f1af07a0e144a216479da8ae16f, type: 3}
+    - Name: "\u041B\u0435\u0432\u0438\u0430\u0444\u0430\u043D"
+      Icon: {fileID: 21300000, guid: b53deb02bfd8d7a41a2a441086740059, type: 3}
+    - Name: "\u0420\u044B\u0446\u0430\u0440\u044C \u0421\u043C\u0435\u0440\u0442\u0438"
+      Icon: {fileID: 21300000, guid: 6240033e7905e904482846e550350592, type: 3}
+    - Name: "\u0423\u0436\u0430\u0441 \u0411\u0435\u0437\u0434\u043D\u044B"
+      Icon: {fileID: 21300000, guid: 69466d636a7511d43ad33aaab07cbc72, type: 3}
+  Prefixes:
+  - 
+  - 
+  - 
+  - 
+  - "\u0414\u0438\u043A\u0438\u0439"
+  - "\u0422\u0451\u043C\u043D\u044B\u0439"
+  - "\u041F\u0440\u043E\u043A\u043B\u044F\u0442\u044B\u0439"
+  - "\u0413\u0438\u0433\u0430\u043D\u0442\u0441\u043A\u0438\u0439"
+  - "\u0414\u0440\u0435\u0432\u043D\u0438\u0439"
+  - "\u0422\u0435\u043D\u0435\u0432\u043E\u0439"
+  - "\u0421\u0432\u0438\u0440\u0435\u043F\u044B\u0439"
+  - "\u0411\u0435\u0448\u0435\u043D\u044B\u0439"
+  - "\u0413\u043E\u043B\u043E\u0434\u043D\u044B\u0439"
+  - "\u042F\u0434\u043E\u0432\u0438\u0442\u044B\u0439"
+  - "\u041A\u0430\u043C\u0435\u043D\u043D\u044B\u0439"
+  - "\u041A\u0440\u043E\u0432\u0430\u0432\u044B\u0439"
+  Bosses:
+  - Name: "\u041A\u043E\u0440\u043E\u043B\u044C \u0421\u043B\u0438\u0437\u043D\u0435\u0439"
+    Icon: {fileID: 21300000, guid: 171ed64113ddfa24dad816574067c065, type: 3}
+  - Name: "\u0412\u043E\u0436\u0430\u043A \u0413\u043E\u0431\u043B\u0438\u043D\u043E\u0432"
+    Icon: {fileID: 21300000, guid: e134a4761e78a8847bb39ded190d4fc2, type: 3}
+  - Name: "\u041F\u0430\u0443\u0447\u044C\u044F \u041C\u0430\u0442\u043A\u0430"
+    Icon: {fileID: 21300000, guid: 8c1562b4508256b468b25a77c2167e8a, type: 3}
+  - Name: "\u0416\u0443\u043A-\u0418\u043C\u043F\u0435\u0440\u0430\u0442\u043E\u0440"
+    Icon: {fileID: 21300000, guid: 84a368faf49877c4884dafe4f0ca7866, type: 3}
+  - Name: "\u0412\u0435\u043B\u0438\u043A\u0438\u0439 \u0427\u0435\u0440\u0432\u044C"
+    Icon: {fileID: 21300000, guid: 28c4a9a61273ac449a353531bac5d99f, type: 3}
+  - Name: "\u041A\u043D\u044F\u0437\u044C \u0411\u0435\u0441\u043E\u0432"
+    Icon: {fileID: 21300000, guid: 36f0b22afda57804782eec2a688eee42, type: 3}
+  - Name: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u041D\u0435\u0442\u043E\u043F\u044B\u0440\u0435\u0439"
+    Icon: {fileID: 21300000, guid: 5ccb6feb858065041a5013700ff8b688, type: 3}
+  - Name: "\u041A\u0440\u0430\u0431-\u0413\u0438\u0433\u0430\u043D\u0442"
+    Icon: {fileID: 21300000, guid: 6ac96ecfe2e9cc34b99ba957c5b4fd56, type: 3}
+  - Name: "\u0426\u0430\u0440\u044C \u0411\u043E\u043B\u043E\u0442\u0430"
+    Icon: {fileID: 21300000, guid: 871b588b1b393174d8b04d083e35eaf8, type: 3}
+  - Name: "\u0413\u0440\u0438\u0431-\u041F\u0430\u0442\u0440\u0438\u0430\u0440\u0445"
+    Icon: {fileID: 21300000, guid: a5e148b897ab83d458853eedefe1f454, type: 3}
+  - Name: "\u0410\u043B\u044C\u0444\u0430-\u0412\u043E\u043B\u043A"
+    Icon: {fileID: 21300000, guid: 30094548378679d479aa3e8a138a7313, type: 3}
+  - Name: "\u041A\u043E\u0441\u0442\u044F\u043D\u043E\u0439 \u041A\u043E\u0440\u043E\u043B\u044C"
+    Icon: {fileID: 21300000, guid: 79b293491e378bc47a43439e4e40311d, type: 3}
+  - Name: "\u0417\u043E\u043C\u0431\u0438-\u0413\u043E\u043B\u0438\u0430\u0444"
+    Icon: {fileID: 21300000, guid: 969b2a602c4c3c141af2912067a12e0d, type: 3}
+  - Name: "\u0410\u0442\u0430\u043C\u0430\u043D \u0420\u0430\u0437\u0431\u043E\u0439\u043D\u0438\u043A\u043E\u0432"
+    Icon: {fileID: 21300000, guid: 5759b931138c9ae47a2caadffd994f18, type: 3}
+  - Name: "\u0412\u0435\u043F\u0440\u044C-\u0420\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043B\u044C"
+    Icon: {fileID: 21300000, guid: 8dfb680e216ccff40a91f4b52a5625c7, type: 3}
+  - Name: "\u0417\u043C\u0435\u0438\u043D\u044B\u0439 \u0426\u0430\u0440\u044C"
+    Icon: {fileID: 21300000, guid: 2624802ecbdc5d747a6c13b2b508001c, type: 3}
+  - Name: "\u0414\u0440\u0435\u0432\u043D\u0438\u0439 \u0423\u043F\u044B\u0440\u044C"
+    Icon: {fileID: 21300000, guid: 2d487f28928c39843814eb4513d5e606, type: 3}
+  - Name: "\u041A\u043E\u0440\u043E\u043B\u044C \u041C\u0438\u043C\u0438\u043A\u043E\u0432"
+    Icon: {fileID: 21300000, guid: 92b57e4014512cb46a295f77e980b2a6, type: 3}
+  - Name: "\u0412\u043E\u0436\u0434\u044C \u0425\u043E\u0431\u0433\u043E\u0431\u043B\u0438\u043D\u043E\u0432"
+    Icon: {fileID: 21300000, guid: 2a1eed3a6caf3ec46a1d3eb32f0bb37c, type: 3}
+  - Name: "\u041F\u043E\u0436\u0438\u0440\u0430\u0442\u0435\u043B\u044C \u041C\u043E\u0433\u0438\u043B"
+    Icon: {fileID: 21300000, guid: e3edd3c3e8a5e014987597ff3ad899b5, type: 3}
+  - Name: "\u0412\u043E\u0435\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u0438\u043A
+      \u041E\u0440\u043A\u043E\u0432"
+    Icon: {fileID: 21300000, guid: b9b5f531b6d3b4640947238a8fd3c77a, type: 3}
+  - Name: "\u041F\u0440\u0438\u0437\u0440\u0430\u0447\u043D\u044B\u0439 \u041B\u043E\u0440\u0434"
+    Icon: {fileID: 21300000, guid: 768463505b2a19a4d983a1f9f3412c1e, type: 3}
+  - Name: "\u0422\u0440\u043E\u043B\u043B\u044C-\u0413\u0440\u043E\u043C\u0438\u043B\u0430"
+    Icon: {fileID: 21300000, guid: 40e415c9e4a7fc24ab1d3bc927ef6991, type: 3}
+  - Name: "\u041E\u0433\u0440-\u0422\u0438\u0440\u0430\u043D"
+    Icon: {fileID: 21300000, guid: ca61aa1bdbf701e4f91f744d5d7efbf1, type: 3}
+  - Name: "\u0412\u043E\u0436\u0430\u043A \u0412\u0435\u0440\u0432\u043E\u043B\u044C\u0444\u043E\u0432"
+    Icon: {fileID: 21300000, guid: d89e889bc2b95b54eb4823593560eb83, type: 3}
+  - Name: "\u0413\u043E\u043B\u0435\u043C-\u0418\u0441\u043F\u043E\u043B\u0438\u043D"
+    Icon: {fileID: 21300000, guid: f18ef5ece0111e4428bd735af11b6da0, type: 3}
+  - Name: "\u0412\u0435\u0440\u0445\u043E\u0432\u043D\u044B\u0439 \u041A\u0443\u043B\u044C\u0442\u0438\u0441\u0442"
+    Icon: {fileID: 21300000, guid: dbaddeb7b900b7342bb17f34cb67aeb0, type: 3}
+  - Name: "\u041A\u043E\u0440\u043E\u043B\u044C \u0412\u0430\u0441\u0438\u043B\u0438\u0441\u043A\u043E\u0432"
+    Icon: {fileID: 21300000, guid: 96a0ed04e1a496049805c47c4c3007fb, type: 3}
+  - Name: "\u041C\u0438\u043D\u043E\u0442\u0430\u0432\u0440-\u0427\u0435\u043C\u043F\u0438\u043E\u043D"
+    Icon: {fileID: 21300000, guid: a8af1d821cb1b0d43983487731faa6bd, type: 3}
+  - Name: "\u0412\u043B\u0430\u0434\u044B\u043A\u0430 \u041B\u0430\u0431\u0438\u0440\u0438\u043D\u0442\u0430"
+    Icon: {fileID: 21300000, guid: 33cfc801d577a0c48b768c7efdcaafe5, type: 3}
+  - Name: "\u0414\u0440\u0435\u0432\u043D\u0438\u0439 \u0412\u0430\u043C\u043F\u0438\u0440"
+    Icon: {fileID: 21300000, guid: d2060336e9244414eae71ce2c1d7abbb, type: 3}
+  - Name: "\u0413\u0435\u0440\u0446\u043E\u0433 \u0414\u0435\u043C\u043E\u043D\u043E\u0432"
+    Icon: {fileID: 21300000, guid: a672825371fd8be438be88269cd20351, type: 3}
+  - Name: "\u0412\u0435\u0440\u0445\u043E\u0432\u043D\u044B\u0439 \u041A\u043E\u043B\u0434\u0443\u043D"
+    Icon: {fileID: 21300000, guid: 00b683fc5035f6945bdd3da156f3a34d, type: 3}
+  - Name: "\u0412\u043B\u0430\u0434\u044B\u043A\u0430 \u0421\u0442\u0438\u0445\u0438\u0439"
+    Icon: {fileID: 21300000, guid: 96a57cb8b01fcd240b14b115805fdb2e, type: 3}
+  - Name: "\u0420\u0435\u0432\u0435\u043D\u0430\u043D\u0442-\u041C\u0441\u0442\u0438\u0442\u0435\u043B\u044C"
+    Icon: {fileID: 21300000, guid: a9f74f9cc2162b4438c93146e68c0889, type: 3}
+  - Name: "\u0421\u0443\u043B\u0442\u0430\u043D \u0418\u0444\u0440\u0438\u0442\u043E\u0432"
+    Icon: {fileID: 21300000, guid: 8e8b4702631f80a4e9aa76b09b2f73b8, type: 3}
+  - Name: "\u0414\u0436\u0438\u043D\u043D-\u0414\u0435\u0441\u043F\u043E\u0442"
+    Icon: {fileID: 21300000, guid: 7fad31d284efddf42be5e983fdd48d7d, type: 3}
+  - Name: "\u041A\u0435\u043D\u0442\u0430\u0432\u0440-\u041F\u043E\u043B\u043A\u043E\u0432\u043E\u0434\u0435\u0446"
+    Icon: {fileID: 21300000, guid: 08f70af021598c54b9fbd1b6ac76fd9b, type: 3}
+  - Name: "\u041A\u043D\u044F\u0437\u044C \u041E\u0431\u043E\u0440\u043E\u0442\u043D\u0435\u0439"
+    Icon: {fileID: 21300000, guid: 7ae733d5817af104c8e51505c17a8bcc, type: 3}
+  - Name: "\u041A\u043E\u0441\u0442\u044F\u043D\u043E\u0439 \u0418\u0441\u043F\u043E\u043B\u0438\u043D"
+    Icon: {fileID: 21300000, guid: daef39fa3cf6dec4e887557bd178c726, type: 3}
+  - Name: "\u041B\u0438\u0447-\u0418\u043C\u043F\u0435\u0440\u0430\u0442\u043E\u0440"
+    Icon: {fileID: 21300000, guid: c17ab1042ae607448a6669a70c9ae0fe, type: 3}
+  - Name: "\u041A\u0440\u0430\u0441\u043D\u044B\u0439 \u0414\u0440\u0430\u043A\u043E\u043D"
+    Icon: {fileID: 21300000, guid: 825f24206e567b342a0186c5a2c217e7, type: 3}
+  - Name: "\u0422\u0438\u0442\u0430\u043D \u0412\u043E\u0439\u043D\u044B"
+    Icon: {fileID: 21300000, guid: 9b68503e8c36f3b43a113c99f9e77afd, type: 3}
+  - Name: "\u041A\u0440\u0430\u043A\u0435\u043D \u0413\u043B\u0443\u0431\u0438\u043D"
+    Icon: {fileID: 21300000, guid: d0a82c02394aca94fbe4b30591ea4bce, type: 3}
+  - Name: "\u0411\u0435\u0433\u0435\u043C\u043E\u0442 \u0425\u0430\u043E\u0441\u0430"
+    Icon: {fileID: 21300000, guid: f709bc58b1a35da409699a8dbd38fe23, type: 3}
+  - Name: "\u0410\u0440\u0445\u0438\u0434\u0435\u043C\u043E\u043D \u041F\u0435\u043A\u043B\u0430"
+    Icon: {fileID: 21300000, guid: 105c30de1ab3a4e4e95142c0e37637ed, type: 3}
+  - Name: "\u0416\u043D\u0435\u0446 \u0414\u0443\u0448"
+    Icon: {fileID: 21300000, guid: 792d82962067b7949a12372baa2b1158, type: 3}
+  - Name: "\u041A\u043E\u043B\u043E\u0441\u0441 \u041F\u0443\u0441\u0442\u043E\u0442\u044B"
+    Icon: {fileID: 21300000, guid: 25a144bad389ff54cb58fec9d8dc63da, type: 3}
+  - Name: "\u0427\u0451\u0440\u043D\u044B\u0439 \u0424\u0435\u043D\u0438\u043A\u0441"
+    Icon: {fileID: 21300000, guid: 45e556f8a7b80434e9a81c33ac52daa1, type: 3}
+  - Name: "\u0412\u043B\u0430\u0434\u044B\u043A\u0430 \u0411\u0435\u0437\u0434\u043D\u044B"
+    Icon: {fileID: 21300000, guid: a7bf7f2cecf3af948af23b0d5c90f32f, type: 3}

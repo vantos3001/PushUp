@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd874ce7bbeb51d4bb6ae7fa053b9bd6, type: 3}
+  m_Name: TrackingConfig
+  m_EditorClassIdentifier: 
+  CameraEnabled: 1
+  CameraWidth: 176
+  CameraHeight: 144
+  DipThreshold: 0.12
+  RiseThreshold: 0.05
+  MinDownSeconds: 0.1
+  MinCycleSeconds: 0.45
+  SmoothFactor: 0.3
+  BaselineFactor: 0.01
+  PoseEnabled: 1
+  PoseModelResourcePath: Models/MoveNet
+  PoseInputSize: 192
+  PoseFrameInterval: 1
+  PoseScoreThreshold: 0.3
+  PoseSmoothFactor: 0.6
+  ElbowDownAngle: 100
+  ElbowUpAngle: 150
+  BodyLineMaxAngle: 20
+  MaxWristDrift: 0.12
+  StrictForm: 1
+  FormWarningCooldownSeconds: 3

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "UnityMCP": {
+      "type": "stdio",
+      "command": "C:\\Users\\iwlas\\.local\\bin\\uvx.exe",
+      "args": ["--from", "mcpforunityserver==10.1.0", "mcp-for-unity"]
+    }
+  }
+}
